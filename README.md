@@ -1,4 +1,4 @@
-# CS250SoftwareDevelopmentLifecycle
+# CS-250 Software Development Lifecycle
 A repository for my work completed throughout my CS-250 Software Development Lifecycle course at Southern New Hampshire University. Through these efforts, I examined the relationship between technical expertise and teamwork, considering how to develop software solutions that have an impact on users.
 
 # Reflections
